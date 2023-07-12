@@ -1,0 +1,32 @@
+		
+
+71.43%		
+	FILEPATH: D:\datathon_main1\Resume-Parser-main\static/files\manav_resume_ibm.pdf		
+	KEYWORDS: ['java', 'full', 'science', 'data', 'stack', 'learning', 'machine']		
+	MATCHES: ['java', 'science', 'data', 'learning', 'machine']		
+
+100.0%		
+	FILEPATH: D:\datathon_main1\Resume-Parser-main\static/files\resume.pdf		
+	KEYWORDS: ['science', 'data']		
+	MATCHES: ['science', 'data']		
+
+33.33%		
+	FILEPATH: D:\datathon_main1\Resume-Parser-main\static/files\resume.pdf		
+	KEYWORDS: ['java', 'full', 'stack']		
+	MATCHES: ['java']		
+
+100.0%		
+	FILEPATH: D:\datathon_main1\Resume-Parser-main\static/files\manav_resume_ibm.pdf		
+	KEYWORDS: ['java', 'learning', 'machine']		
+	MATCHES: ['java', 'learning', 'machine']		
+
+100.0%		
+	FILEPATH: D:\datathon_main1\Resume-Parser-main\static/files\manav_resume_ibm.pdf		
+	KEYWORDS: ['machine', 'data', 'science', 'learning']		
+	MATCHES: ['machine', 'data', 'science', 'learning']		
+
+33.33%		
+	FILEPATH: D:\datathon_main1\Resume-Parser-main\static/files\manav_resume_ibm.pdf		
+	KEYWORDS: ['stack', 'full', 'java']		
+	MATCHES: ['java']		
+
